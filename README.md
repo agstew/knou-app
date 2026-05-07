@@ -1,2 +1,2 @@
-# knou-app
+# knoukno
 Builder a Business
